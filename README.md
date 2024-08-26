@@ -2,6 +2,6 @@
 
 Computer Programming for Interactive Media I
 
-Friday - Fall 2024
+Friday section - Fall 2024
 
 Emerging Media Technology (MTEC) at City Tech, CUNY
